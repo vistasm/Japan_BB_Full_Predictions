@@ -2,7 +2,7 @@
   "prediction_date": "2026-05-11",
   "config": "BB_Full",
   "data_hashes": {
-    "usgs": "311e8bcc0ee840e8",
+    "usgs": "97d467c92ca94181",
     "jma": "3bbe2e3577e577d5",
     "gps": "72c13b6a1d1bfb93"
   },
@@ -147,7 +147,7 @@
       "pop_millions": 8,
       "tiers": {
         "T1": {
-          "probability": 0.644018,
+          "probability": 0.644019,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -162,7 +162,7 @@
           }
         },
         "T2": {
-          "probability": 0.503555,
+          "probability": 0.503556,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -229,7 +229,7 @@
           }
         },
         "T2": {
-          "probability": 0.194297,
+          "probability": 0.194298,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -259,7 +259,7 @@
           }
         },
         "T4": {
-          "probability": 0.064544,
+          "probability": 0.064545,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -326,7 +326,7 @@
           }
         },
         "T4": {
-          "probability": 0.237368,
+          "probability": 0.237369,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -445,7 +445,7 @@
           }
         },
         "T3": {
-          "probability": 0.20801,
+          "probability": 0.208011,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -750,7 +750,7 @@
       "pop_millions": 0,
       "tiers": {
         "T1": {
-          "probability": 0.303787,
+          "probability": 0.303788,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -780,7 +780,7 @@
           }
         },
         "T3": {
-          "probability": 0.305417,
+          "probability": 0.305418,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1018,7 +1018,7 @@
       "pop_millions": 8,
       "tiers": {
         "T1": {
-          "probability": 0.279558,
+          "probability": 0.279557,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1286,7 +1286,7 @@
       "pop_millions": 8,
       "tiers": {
         "T1": {
-          "probability": 0.348942,
+          "probability": 0.348943,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1331,7 +1331,7 @@
           }
         },
         "T4": {
-          "probability": 0.143523,
+          "probability": 0.143524,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1487,7 +1487,7 @@
       "pop_millions": 0,
       "tiers": {
         "T1": {
-          "probability": 0.028258,
+          "probability": 0.028259,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1584,7 +1584,7 @@
           }
         },
         "T3": {
-          "probability": 0.370914,
+          "probability": 0.370915,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1599,7 +1599,7 @@
           }
         },
         "T4": {
-          "probability": 0.331839,
+          "probability": 0.33184,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
@@ -1770,7 +1770,7 @@
           }
         },
         "T2": {
-          "probability": 0.215834,
+          "probability": 0.215835,
           "alerts": {
             "0.5pct": false,
             "1.0pct": false,
